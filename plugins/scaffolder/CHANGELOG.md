@@ -1,5 +1,11 @@
 # @backstage/plugin-scaffolder
 
+## 0.9.4
+
+### Patch Changes
+
+- 81ef1d57b: Show error on task page if task does not exist.
+
 ## 0.9.3
 
 ### Patch Changes
